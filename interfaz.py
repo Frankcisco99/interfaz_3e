@@ -14,7 +14,7 @@ def obtenerDesc():
         
 
 ventana = tkinter.Tk()
-ventana.title("Codigos de error")
+ventana.title("Codigos")
 
 #titulo 
 titulo = ttk.Label(ventana,text="Ingresa el codigo", font="Calibri 24 bold")
